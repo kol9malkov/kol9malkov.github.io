@@ -1,0 +1,19 @@
+{
+    "site_url":"192.168.1.89",
+    "site_title": "Блог и резюме",
+    "description": "Николай - портфолио, резюме и блог Python разработчика",
+    "keywords": "Веб-разработка на Python, бэкенд Flask",
+    "name":"Николай",
+    "tag1":"Разработчик",
+    "tag2":"Python",
+    "sect1":"Главная",
+    "sect2":"Резюме",
+    "sect3":"Портфолио",
+    "sect4":"Блог",
+    "sect5":"Контакты",
+    "telegram":"https://t.me/kol9malkov",
+    "github":"https://github.com/kol9malkov",
+    "vk":"https://vk.com/kol9malkov",
+    "email":"mailto:kol9malkov@gmail.com",
+    "city":"Краснознаменск"
+}
